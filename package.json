@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "tic-tac-toe": "node tic-tac-toe/index.js",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
